@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/JhonatanEstabile/youtube-video-maker/issues"
   },
-  "homepage": "https://github.com/JhonatanEstabile/youtube-video-maker#readme"
+  "homepage": "https://github.com/JhonatanEstabile/youtube-video-maker#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.16"
+  }
 }
